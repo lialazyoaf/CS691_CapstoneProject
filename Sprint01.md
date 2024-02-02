@@ -12,16 +12,46 @@ Your Project Description goes here.
 
 <table style="width:100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" valign="center"><img src="Link to your teammate photo on github" width="250"><br />Student name(<a href="mailto:student pace email id">student pace email id</a>)</td>
-    <td align="center" valign="center"><img src="Link to your teammate photo on github" width="250"><br />Student name(<a href="mailto:student pace email id">student pace email id</a>)</td>
-    <td align="center" valign="center"><img src="Link to your teammate photo on github" width="250"><br />Student name(<a href="mailto:student pace email id">student pace email id</a>)</td>
+    <td align="center" valign="center">
+      <img src="Link to Linlan Cai's photo on GitHub" width="250"><br />
+      Linlan Cai (<a href="mailto:linlan.cai@example.com">linlan.cai@example.com</a>)
+    </td>
+    <td align="center" valign="center">
+      <img src="Link to Zhifu Chen's photo on GitHub" width="250"><br />
+      Zhifu Chen (<a href="mailto:zhifu.chen@example.com">zhifu.chen@example.com</a>)
+    </td>
   </tr>
   <tr>
-    <td align="center" valign="center"><img src="Link to your teammate photo on github" width="250"><br />Student name(<a href="mailto:student pace email id">student pace email id</a>)</td>
-    <td align="center" valign="center"><img src="Link to your teammate photo on github" width="250"><br />Student name(<a href="mailto:student pace email id">student pace email id</a>)</td>
-    <td align="center" valign="center"><img src="Link to your teammate photo on github" width="250"><br />Student name(<a href="mailto:student pace email id">student pace email id</a>)</td>
+    <td align="center" valign="center">
+      <img src="Link to Krits Chotechuangchaikul's photo on GitHub" width="250"><br />
+      Krits Chotechuangchaikul (<a href="mailto:krits.cho@example.com">krits.cho@example.com</a>)
+    </td>
+    <td align="center" valign="center">
+      <img src="Link to Sarthak Mishra's photo on GitHub" width="250"><br />
+      Sarthak Mishra (<a href="mailto:sarthak.mishra@example.com">sarthak.mishra@example.com</a>)
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">
+      <img src="Link to Aakash Akhilesh Patel's photo on GitHub" width="250"><br />
+      Aakash Akhilesh Patel (<a href="mailto:aakash.patel@example.com">aakash.patel@example.com</a>)
+    </td>
+    <td align="center" valign="center">
+      <img src="Link to Hitesh Pulivarthi's photo on GitHub" width="250"><br />
+      Hitesh Pulivarthi (<a href="mailto:hitesh.puli@example.com">hitesh.puli@example.com</a>)
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="center">
+      <img src="Link to Yash Vora's photo on GitHub" width="250"><br />
+      Yash Vora (<a href="mailto:yash.vora@example.com">yash.vora@example.com</a>)
+    </td>
+    <td align="center" valign="center">
+      <!-- Add empty cell for spacing or additional members -->
+    </td>
   </tr>
 </table>
+
 
 ***
 
