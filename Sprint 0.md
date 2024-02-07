@@ -13,7 +13,7 @@
 <table style="width:100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="center">
-      <img src="Link to Linlan Cai's photo on GitHub" width="250"><br />
+      <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Wiki%20Images/team%20member%20images/linlan.jpeg" width="250"><br />
       Linlan Cai (<a href="mailto:lc03159p@pace.edu">lc03159p@pace.edu</a>)
     </td>
     <td align="center" valign="center">
@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td align="center" valign="center">
-      <img src="Link to Aakash Akhilesh Patel's photo on GitHub" width="250"><br />
+      <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Wiki%20Images/team%20member%20images/Akaash.jpeg" width="250"><br />
       Aakash Akhilesh Patel (<a href="mailto:hPatel.aakash19008@gmail.com">Patel.aakash19008@gmail.com</a>)
     </td>
     <td align="center" valign="center">
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td align="center" valign="center">
-      <img src="Link to Yash Vora's photo on GitHub" width="250"><br />
+      <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Wiki%20Images/team%20member%20images/Yash.jpeg" width="250"><br />
       Yash Vora (<a href="yashvora2711@gmail.com">yashvora2711@gmail.com</a>)
     </td>
     <td align="center" valign="center">
