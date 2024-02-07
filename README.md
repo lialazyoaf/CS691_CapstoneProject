@@ -4,5 +4,6 @@ List for each sprint.
 [View Sprint0 here](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Sprint00.md)
 
 ## Sprint1 
+[View Sprint1 here](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Sprint%201.md)
 ## Sprint2
 ## Sprint3
