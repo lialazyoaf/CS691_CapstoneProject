@@ -4,7 +4,7 @@
 
 ## Project Description
 
-[View Project Description as Word here](https://docs.google.com/document/d/1u6OsEhJ6eFh0-4gvfaNIQqCYnWMaomYBgZYqkGtqcBE/edit?pli=1)
+[View Project Description as Word here](https://docs.google.com/document/d/e/2PACX-1vTZqm489FsC8JTbUDEMCAxqavSDwmtKe4BVJlVOV_Wa_tMNkbKRfIjME5oCzWiAYLsVDHiR6B9X5lNb/pub)
 
 ***
 
@@ -17,7 +17,7 @@
       Linlan Cai (<a href="mailto:lc03159p@pace.edu">lc03159p@pace.edu</a>)
     </td>
     <td align="center" valign="center">
-      <img src="Link to Zhifu Chen's photo on GitHub" width="250"><br />
+      <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Wiki%20Images/team%20member%20images/zhifu.jpg" width="250"><br />
       Zhifu Chen (<a href="mailto:zc30266p@pace.edu">zc30266p@pace.edu</a>)
     </td>
   </tr>
