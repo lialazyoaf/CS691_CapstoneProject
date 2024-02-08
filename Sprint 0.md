@@ -17,7 +17,7 @@
       Linlan Cai (<a href="mailto:lc03159p@pace.edu">lc03159p@pace.edu</a>)
     </td>
     <td align="center" valign="center">
-      <img src="Link to Zhifu Chen's photo on GitHub" width="250"><br />
+      <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Wiki%20Images/team%20member%20images/zhifu.jpg" width="250"><br />
       Zhifu Chen (<a href="mailto:zc30266p@pace.edu">zc30266p@pace.edu</a>)
     </td>
   </tr>
