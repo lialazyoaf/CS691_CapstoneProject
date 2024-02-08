@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td align="center" valign="center">
-      <img src="Link to Krits Chotechuangchaikul's photo on GitHub" width="250"><br />
+      <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Wiki%20Images/team%20member%20images/krtis.jpg" width="250"><br />
       Krits Chotechuangchaikul (<a href="mailto:kc98629n@pace.edu">kc98629n@pace.edu</a>)
     </td>
     <td align="center" valign="center">
