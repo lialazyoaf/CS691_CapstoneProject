@@ -27,7 +27,7 @@
       Krits Chotechuangchaikul (<a href="mailto:kc98629n@pace.edu">kc98629n@pace.edu</a>)
     </td>
     <td align="center" valign="center">
-      <img src="Link to Sarthak Mishra's photo on GitHub" width="250"><br />
+      <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Wiki%20Images/team%20member%20images/sarthak.jpg" width="250"><br />
       Sarthak Mishra (<a href="mailto:mishra.sarthak.5@gmail.com">mishra.sarthak.5@gmail.com</a>)
     </td>
   </tr>
@@ -37,7 +37,7 @@
       Aakash Akhilesh Patel (<a href="mailto:hPatel.aakash19008@gmail.com">Patel.aakash19008@gmail.com</a>)
     </td>
     <td align="center" valign="center">
-      <img src="Link to Hitesh Pulivarthi's photo on GitHub" width="250"><br />
+      <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Wiki%20Images/team%20member%20images/hitesh.jpg" width="250"><br />
       Hitesh Pulivarthi (<a href="mailto:hp85695n@pace.edu">hp85695n@pace.edu</a>)
     </td>
   </tr>
