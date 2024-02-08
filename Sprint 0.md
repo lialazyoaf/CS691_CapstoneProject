@@ -75,7 +75,7 @@ For icons please refer - https://devicon.dev
 
 
 ### Presentations (Sprint Reviews)
-1. [Watch Deliverable 1 Presentation Video]()
+1. [Watch Deliverable 1 Presentation Video](https://youtu.be/tguiM3U-sdk)
 <br />1a. [View Deliverable 1 Presentation Slides as PDF](https://docs.google.com/presentation/d/e/2PACX-1vRc-MYXeRV5YulpMeZzd8fC8rgV0rW5zGAHPxhJmRZCkFT0yp967rssraR2lvJNC1c42oyaIW8Sibrg/pub?start=true&loop=false&delayms=3000)
 <br />1b. <a id="raw-url" href="">Download Deliverable 1 Presentation Slides as PowerPoint</a>
 
