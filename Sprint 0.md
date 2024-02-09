@@ -101,11 +101,3 @@ An overview of how you are going to implement this project goes here
 ***
 
 
-## Additional Project Artifacts
-
-### Product Personas
-[Persona 1]()
-<br/>
-[Persona 2]()
-<br/>
-[Persona 3]()
