@@ -64,9 +64,18 @@ An overview of how you are going to implement this project goes here
 
 ### Languages and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="120" height="120"/>&nbsp;
+1. <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/raw/main/Artifacts/Wiki%20Images/tool%20icons/OiVSGhKqC9uzmQu0ShhCxpaMXPF-JjL86ncsPgmVtLzcNQZNHOHkG7tH77Dx92S2U-Yr7WBV47qJ5JyBb1QtA0KJXBJ0cclPe03dMyQF_dbcLoUjU_HHaeHlzGp0.jpg" alt="Programming Languages and Tools" width="100"/> - Utilized for programming languages and various tools.
 
-For icons please refer - https://devicon.dev
+2. <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/raw/main/Artifacts/Wiki%20Images/tool%20icons/T3EZu2T5V4yOaxFj6OiI-81N-hjQmaemG5-yCC7ZjOQvX_J_af5Z_LoFhsNN_AzWh3xUzEsvF5fNzS4Ol9UB8HsHNC6bKfskTO6REJGe8IJHzmuaCGguXHUL41CF.jpg" alt="Version Control" width="100"/> - Used for version control purposes.
+
+3. <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/raw/main/Artifacts/Wiki%20Images/tool%20icons/iIHXGKFboexTwUSNqiXnjTcRggX9Q-o48kA8-n9ISP9ihhfm8y6yWd6q3oQqtx7DymzfdbONt0Jwasdmu-bmlr8USsSBxcAGoUvpuMQ7VrW1esHefdmmUPbzduap.jpg" alt="Level Design and Prototyping" width="100"/> - Ideal for level design and prototyping tasks.
+
+4. <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/raw/main/Artifacts/Wiki%20Images/tool%20icons/kbboNE1qwGIp45ghwnMpx5WkIHUEnEnwg-Tp9j_CO2NAP4zikDf0YxE6iAp7r4f2-6EDsPHVbBBLexvIxG5LhxYu_WQBFaW3qsveBdrICVHD0zPM8uGrHJ9Ryck_.jpg" alt="Graphics and Animation Software" width="100"/> - Used for graphics designing and animation purposes.
+
+5. <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/raw/main/Artifacts/Wiki%20Images/tool%20icons/xKHozANDn-8BfkMv4bJDiiOgA6iU8egKSfjgYXlCEia2o0NvAdoqpVRZOnYJ5qiwyvTqsZcPCr9ygmqUVp08Ov1iK4hvKhi6HZLPAfYpINKIIb6vDBNmAXOry43O.jpg" alt="Game Engine" width="100"/> - Used for game development and creation.
+
+6. <img src="https://github.com/lialazyoaf/CS691_CapstoneProject/raw/main/Artifacts/Wiki%20Images/tool%20icons/zWXo98K-cKpbIutpQPt-q9_ka2lqIBWzgE2DsP3xAm2q4BbaMSUwy5_WWn9FLS9dovTxDuQD3OsALvB_Q8HoH1YWrioe_vl0RdjY0h2gEjNU9IFvqUE1viXityHl.jpg" alt="Sound and Music Creation" width="100"/> - Utilized for sound and music creation.
+
 
 ***
 
