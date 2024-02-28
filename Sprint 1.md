@@ -91,39 +91,29 @@ An overview of how you are going to implement this project goes here
 
 ### Sprint Burndown Charts and Completed Tasks
 
-1. [Deliverable 1 Completed Tasks]()
-2. [Deliverable 1 Burndown Chart]()
+1. [Deliverable 1 Completed Tasks](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Sprint%20Burndown%20Charts%20and%20Completed%20Tasks/sprint%201%20-%20completed%20task.png)
+2. [Deliverable 1 Burndown Chart](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Sprint%20Burndown%20Charts%20and%20Completed%20Tasks/burndown-sprint1.png)
 
 ### Team Working Agreement
 
-[Team Working Agreement as PDF]() | <a id="raw-url" href="">Download Team Working Agreement as Word Document</a>
-
-
-***
-
-### Architecture Diagram
-
-[Conceptual Architecture Diagram]()| [Sequence Diagram]()
+[Watch Team Working Agreement online](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Team%20Working%20Agreement/Teamwork%20Agreement.pdf) 
 
 ***
+
+
 
 
 ## Additional Project Artifacts
 
 ### Product Personas
-[Persona 1]()
+[Persona 1](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Product%20Personas/persona%201.png)
 <br/>
-[Persona 2]()
+[Persona 2](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Product%20Personas/persona%202.png)
 <br/>
-[Persona 3]()
+[Persona 3](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Product%20Personas/persona%203.png)
 
 
 ### User Stories
 
-[View User Stories Spreadsheet as PDF]() | <a id="raw-url" href="">Download User Stories as Excel Workbook</a>
+[View User Stories and Acceptance Criteria online](https://github.com/lialazyoaf/CS691_CapstoneProject/issues?q=is%3Aopen+is%3Aissue+label%3A%22User+Story%22) 
 
-### Acceptance Criteria
-[View Acceptance Criteria as PDF]() | <a id="raw-url" href="">Download Acceptance Criteria as Excel Workbook</a>
-
-### Application Test Cases
-[View Test Cases PDF]() | <a id="raw-url" href="">Download Test Cases as Excel Workbook</a>
