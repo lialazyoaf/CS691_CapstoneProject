@@ -85,7 +85,7 @@ An overview of how you are going to implement this project goes here
 ### Presentations (Sprint Reviews)
 1. [Watch Deliverable 1 Presentation Video]()
 <br />1a. [View Deliverable 1 Presentation Slides online](https://docs.google.com/presentation/d/e/2PACX-1vQQEYfLhGG6jQYshZKyJjV266eYxrShUmLUfwPwFEPb0o3bMtJyqWkencj0aRUaweNN8GbYQPl-gv7V/pub?start=true&loop=false&delayms=3000)
-<br />1b. <a id="raw-url" href="">Download Deliverable 1 Presentation Slides as PowerPoint</a>
+<br />1b. <a id="raw-url" href="">Download Deliverable 1 Presentation Slides as PDF</a>
 
 
 
