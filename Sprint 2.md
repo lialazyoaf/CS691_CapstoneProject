@@ -85,16 +85,16 @@ An overview of how you are going to implement this project goes here
 ### Presentations (Sprint Reviews)
 
 
-1. [Watch Deliverable 2 Presentation Video]()
-<br />3a. [View Deliverable 2 Presentation Slides as PDF]()
-<br />3b. [Download Deliverable 3 Presentation Slides as PDF]()
-<br />3c. [View Technical Paper as PDF]()
+1. [Watch Deliverable 2 Presentation Video](https://youtu.be/PZVvaPC4K34)
+<br />1a. [View Deliverable 2 Presentation Slides online](https://docs.google.com/presentation/d/e/2PACX-1vTWJD6Fncy098rdAAyDNXabFKKPvH-NT4mCRIcEUjwb2j2O4BAjAqXIulpEw_crZg_e_Rf-TbIrfCK1/pub?start=true&loop=false&delayms=3000)
+<br />1b. [Download Deliverable 2 Presentation Slides as PDF](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Slides/sprint2-slides.pdf)
+<br />1c. [View Technical Paper as PDF](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/The%20Great%20Escape%20Technical%20Paper.pdf)
 
 
 
 ### Sprint Burndown Charts and Completed Tasks
-1. [Deliverable 2 Completed Tasks]()
-2. [Deliverable 2 Burndown Chart]()
+1. [Deliverable 2 Completed Tasks](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Sprint%20Burndown%20Charts%20and%20Completed%20Tasks/sprint%202%20-%20completed%20task.png)
+2. [Deliverable 2 Burndown Chart](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Sprint%20Burndown%20Charts%20and%20Completed%20Tasks/sprint%202%20-%20burndown.png)
 
 ### Team Working Agreement
 
