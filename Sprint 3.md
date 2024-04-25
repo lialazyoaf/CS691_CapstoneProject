@@ -77,9 +77,9 @@
 
 ## Project Name Final Application Artifacts
 
-### Final MVP Demo
+### Final MVP 
 
-[Watch Project Name MVP Demo]()
+[Watch Project Name MVP ](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/MVP%20Diagram.png)
 
 ### Application Manuals
 
@@ -91,7 +91,7 @@
 
 #### Project Name Technical Paper
 
-[View Technical Paper as PDF](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Slides/Sprint3-slides.pdf)
+[View Technical Paper as PDF]([https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Slides/Sprint3-slides.pdf](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/The%20Great%20Escape%20Technical%20Paper.pdf))
 
 ***
 
@@ -124,7 +124,7 @@
 
 ### Architecture Diagram
 
-[Conceptual Architecture Diagram](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Architecture%20Diagram/Conceptual%20Architecture%20Diagram.png) | [Sequence Diagram](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Architecture%20Diagram/Sequence%20Diagram%20.png) | [Class Diagram (UML Diagram)](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Architecture%20Diagram/Class%20Diagram%20(UML%20Diagram).png) 
+[Conceptual Architecture Diagram](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Architecture%20Diagram/Conceptual%20Architecture%20Diagram.png) | [Sequence Diagram](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Architecture%20Diagram/Sequence%20Diagram%20.png) | [Class Diagram (UML Diagram)](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Architecture%20Diagram/Class%20Diagram%20(UML%20Diagram).png) 
 
 ***
 
