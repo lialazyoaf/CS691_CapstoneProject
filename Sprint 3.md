@@ -124,7 +124,7 @@
 
 ### Architecture Diagram
 
-[Conceptual Architecture Diagram](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Architecture%20Diagram/Conceptual%20Architecture%20Diagram.png) | [Sequence Diagram](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Architecture%20Diagram/Sequence%20Diagram%20.png) | [Class Diagram (UML Diagram)](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Architecture%20Diagram/Class%20Diagram%20(UML%20Diagram).png) 
+[Conceptual Architecture Diagram](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Architecture%20Diagram/Conceptual%20Architecture%20Diagram.png) | [Sequence Diagram](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Architecture%20Diagram/Sequence%20Diagram%20.png) | [Class Diagram (UML Diagram)](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Architecture%20Diagram/Class%20Diagram%20(UML%20Diagram).png) 
 
 ***
 
