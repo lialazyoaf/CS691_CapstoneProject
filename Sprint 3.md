@@ -56,7 +56,7 @@
 
 ## Project Design
 ### Architecture Overview
-<img src="https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Architecture%20diagram.png">
+<img src="https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Architecture%20Diagram/Conceptual%20Architecture%20Diagram.png">
 
 ***
 
@@ -79,13 +79,13 @@
 
 ### Final MVP 
 
-[Watch Project Name MVP ](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/MVP%20Diagram.png)
+[Watch Project Name MVP](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/MVP%20Diagram.png)
 
 ### Application Manuals
 
 #### Deployment Manual
 
-[View Deployment Manual]() | [View Deployment Manual as PDF]() | <a id="raw-url" href="">Download Deployment Manual as Word Document</a>
+[View Deployment Manual](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Deployment%20Manual_%20Detailed%20Guide%20to%20Downloading%2C%20Unzipping%2C%20Importing%2C%20and%20Playing%20a%20Game%20in%20Unity-3.pdf) | [View Deployment Manual as PDF](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Deployment%20Manual_%20Detailed%20Guide%20to%20Downloading%2C%20Unzipping%2C%20Importing%2C%20and%20Playing%20a%20Game%20in%20Unity-3.pdf) 
 
 
 
@@ -104,7 +104,7 @@
 <br />1a. [View Deliverable 3 Presentation Slides as PDF](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/Slides/Sprint3-slides.pdf)
 <br />1b. <a id="raw-url" href="https://docs.google.com/presentation/d/e/2PACX-1vSD8NUV5f2ErI39TN7-Fv_50uw1LwvZyNpn2rxxMgzBbOnd3jgdDyILCQbk58Pv_NFCwOhdajK5fDEn/pub?start=false&loop=false&delayms=3000">View  Deliverable 3 Presentation Slides online</a>
 <br />1c. [View Technical Paper as PDF](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/The%20Great%20Escape%20Technical%20Paper.pdf)
-<br />1d. [Watch Demo]()
+<br />1d. [Watch Demo](https://github.com/lialazyoaf/CS691_CapstoneProject/blob/main/Artifacts/demo%20vedio.mp4)
 
 
 
